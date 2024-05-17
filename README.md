@@ -9,7 +9,7 @@ Welcome to ShadowGuard, an open-source project dedicated to simplifying the deve
 
 ### Game Asset Management
 
-Imagine a blockchain-based game where players can own unique items and have specific attributes. Currently, all game data, including ownership and attributes, is public. ShadowGuard enables the game to manage these assets privately off-chain, while only necessary data, like item attributes, are exposed on-chain.
+Imagine a blockchain-based game where players can own unique items and have specific attributes. Currently, all game data, including ownership and attributes, has to be public. ShadowGuard enables the game to manage these assets privately off-chain, while only necessary data, like item attributes, are exposed on-chain.
 
 **Example Scenario:**
 - A player owns a magical sword, "Excalibur," which gives +3 attack points.
